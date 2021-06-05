@@ -24,22 +24,17 @@ In order to accomplish the above articulated needs, the Security System requires
 
 2.NON-FUNCTIONAL REQUIREMENTS
 
-2.1	Summary of Non-functional Characters
-
-The non-functional requirements should describe the system's operation capabilities and constraints that enhance its functionality, including safety, reliability, etc.
-
-2.2	Non-functional Requirements  
-2.2.1 System Security  
+2.1 System Security  
   •	The embedded system hardware design should fulfil the needs of system safety    
   •	Use of sustainable hardware components   
   •	Safe power supply for the system  
   •	Safe operation in components and wire connection  
 
-2.2.2 The software programming should fulfil the need of system safety  
+2.2 The software programming should fulfil the need of system safety  
   •	Data encryption when using password function  
   •	Reliable coding to ensure the functionality of the system  
 
-2.2.3 System Complexity  
+2.3 System Complexity  
   •	Reducing of the total number of wires/components when possible  
   •	Optimization of the system by using different components  
 
@@ -47,7 +42,7 @@ The non-functional requirements should describe the system's operation capabilit
 3.DETAILED EXPLANATION OF THE DESIGN
 
 •	Keypad & LCD1602: used for entering password in order to change between “opened” and “closed” states  
-•	Speaker: make alarm sound when moving objects passing through under “armed” state  
+•	Speaker: make alarm sound when moving objects passing through under “opened” state  
 •	Laser transmitter & laser receiver: detect moving objects passing through   
 
 
