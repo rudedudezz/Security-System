@@ -6,14 +6,14 @@ It's a security system to monitor a door or window and would determine, whether 
 
 1.1	Summary of Functions
 
-The Security System requires a embedded system based solution for a program whose primary functions are to:
+The Security System requires a embedded system based solution for a program whose primary functions are to:  
 •	Monitor a door or window  
 •	Determine the open state of the door/window   
 •	Determine the armed/disarmed state of the system  
 •	Take necessary steps in both armed/disarmed state  
 
 1.2	Functional Requirements
-In order to accomplish the above articulated needs, the Security System requires the following functionality:
+In order to accomplish the above articulated needs, the Security System requires the following functionality:  
 •	Status Management  
   •	Indication of the current state of the door/window  
   •	Ability to switch between states “open” and “closed”  
@@ -56,7 +56,7 @@ The non-functional requirements should describe the system's operation capabilit
 4.HARDWARE REQUIREMENTS 	  
 
 •	LCD Display   
-•	Number keypad 
+•	Number keypad   
 •	Breadboard  
 •	Arduino Uno  
 • Speaker  
