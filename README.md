@@ -2,9 +2,9 @@
 
 It's a security system to monitor a door or window and would determine, whether the door/window is closed or opened by using laser sensor. In order to alter the states, a pin must be entered using a number pad. Additionally, there is a display which shows the current state of the door/window.
 
-1.FUNCTIONAL REQUIREMENTS   
-1.1	Summary of Functions
+1.FUNCTIONAL REQUIREMENTS
 
+1.1	Summary of Functions
 The Security System requires a embedded system based solution for a program whose primary functions are to:  
 •	Monitor a door or window  
 •	Determine the opened/closed state of the system  
@@ -12,6 +12,7 @@ The Security System requires a embedded system based solution for a program whos
 
 1.2	Functional Requirements  
 In order to accomplish the above articulated needs, the Security System requires the following functionality:  
+
 1.2.1 Status Management  
   •	Indication of the current state of the door/window  
   •	Ability to switch between states “open” and “closed”  
