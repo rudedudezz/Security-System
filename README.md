@@ -14,11 +14,11 @@ The Security System requires a embedded system based solution for a program whos
 
 1.2	Functional Requirements
 In order to accomplish the above articulated needs, the Security System requires the following functionality:  
-•	Status Management  
+1.2.1 Status Management  
   •	Indication of the current state of the door/window  
   •	Ability to switch between states “open” and “closed”  
 
-•	Alarm System Management  
+1.2.2 Alarm System Management  
   •	Indication of the current state of the alarm system   
   •	Ability to control the alarm system by using passwords  
   •	Make alarm sound while someone trying to break into the door/window in “closed” state  
@@ -30,18 +30,18 @@ In order to accomplish the above articulated needs, the Security System requires
 
 The non-functional requirements should describe the system's operation capabilities and constraints that enhance its functionality, including safety, reliability, etc.
 
-2.2	Non-functional Requirements
-•	System Security  
+2.2	Non-functional Requirements  
+2.2.1 System Security  
   •	The embedded system hardware design should fulfil the needs of system safety    
   •	Use of sustainable hardware components   
   •	Safe power supply for the system  
   •	Safe operation in components and wire connection  
 
-•	The software programming should fulfil the need of system safety  
+2.2.2 The software programming should fulfil the need of system safety  
   •	Data encryption when using password function  
   •	Reliable coding to ensure the functionality of the system  
 
-•	System Complexity  
+2.2.3 System Complexity  
   •	Reducing of the total number of wires/components when possible  
   •	Optimization of the system by using different components  
 
