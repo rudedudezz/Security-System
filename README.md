@@ -2,7 +2,7 @@
 
 It's a security system to monitor a door or window and would determine, whether the door/window is closed or opened by using laser sensor. In order to alter the states, a pin must be entered using a number pad. Additionally, there is a display which shows the current state of the door/window.
 
-1. FUNCTIONAL REQUIREMENTS
+1.FUNCTIONAL REQUIREMENTS
 
 1.1	Summary of Functions
 The Security System requires a embedded system based solution for a program whose primary functions are to:  
@@ -23,7 +23,7 @@ In order to accomplish the above articulated needs, the Security System requires
   •	Make alarm sound while someone trying to break into the door/window in “closed” state  
  
 
-2. NON-FUNCTIONAL REQUIREMENTS
+2.NON-FUNCTIONAL REQUIREMENTS
 
 2.1 System Security  
   •	The embedded system hardware design should fulfil the needs of system safety    
@@ -40,14 +40,14 @@ In order to accomplish the above articulated needs, the Security System requires
   •	Optimization of the system by using different components  
 
 
-3. DETAILED EXPLANATION OF THE DESIGN
+3.DETAILED EXPLANATION OF THE DESIGN
 
 •	Keypad & LCD1602: used for entering password in order to change between “opened” and “closed” states  
 •	Speaker: make alarm sound when moving objects passing through under “opened” state  
 •	Laser transmitter & laser receiver: detect moving objects passing through   
 
 
-4. HARDWARE REQUIREMENTS 	  
+4.HARDWARE REQUIREMENTS 	  
 
 •	LCD Display   
 •	Number keypad   
