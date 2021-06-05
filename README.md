@@ -11,7 +11,7 @@ The Security System requires a embedded system based solution for a program whos
 •	Determine the opened/closed state of the system  
 •	Take necessary steps in both opened/closed state  
 
-1.2	Functional Requirements
+1.2	Functional Requirements  
 In order to accomplish the above articulated needs, the Security System requires the following functionality:  
 1.2.1 Status Management  
   •	Indication of the current state of the door/window  
