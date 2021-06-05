@@ -24,7 +24,7 @@ In order to accomplish the above articulated needs, the Security System requires
   •	Make alarm sound while someone trying to break into the door/window in “closed” state
  
 
-2. NON-FUNCTIONAL REQUIREMENTS
+2.NON-FUNCTIONAL REQUIREMENTS
 
 2.1	Summary of Non-functional Characters
 
@@ -46,16 +46,16 @@ The non-functional requirements should describe the system's operation capabilit
   •	Optimization of the system by using different components
 
 
-3. DETAILED EXPLANATION OF THE DESIGN
+3.DETAILED EXPLANATION OF THE DESIGN
 
 •	Keypad & LCD1602: used for entering password in order to change between “armed” and “disarmed” states
 •	Speaker: make alarm sound when moving objects passing through under “armed” state
 •	Laser transmitter & laser receiver: detect moving objects passing through 
 
 
-4. HARDWARE REQUIREMENTS 	
+4.HARDWARE REQUIREMENTS 	
 
-•	LCD Display
+•	LCD Display  
 •	Number keypad
 •	Breadboard
 •	Arduino Uno
