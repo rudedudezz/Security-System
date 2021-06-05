@@ -8,9 +8,8 @@ It's a security system to monitor a door or window and would determine, whether 
 
 The Security System requires a embedded system based solution for a program whose primary functions are to:  
 •	Monitor a door or window  
-•	Determine the open state of the door/window   
-•	Determine the armed/disarmed state of the system  
-•	Take necessary steps in both armed/disarmed state  
+•	Determine the opened/closed state of the system  
+•	Take necessary steps in both opened/closed state  
 
 1.2	Functional Requirements
 In order to accomplish the above articulated needs, the Security System requires the following functionality:  
