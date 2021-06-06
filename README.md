@@ -1,6 +1,6 @@
 # Security-System Using Arduino
 
-It's a security system to monitor a door or window and would determine, whether the door/window is closed or opened by using laser sensor. In order to alter the states, a pin must be entered using a number pad. Additionally, there is a display which shows the current state of the door/window.
+The security system is used to monitor a door or window and would determine, whether the door/window is closed or opened by using laser sensor. In order to alter the states, a pin must be entered using a number pad. Additionally, there is a display which shows the current state of the door/window.
 
 1.FUNCTIONAL REQUIREMENTS
 
