@@ -57,4 +57,5 @@ In order to accomplish the above articulated needs, the Security System requires
 •	Wires  
 •	Laser emitter  
 •	Laser receiver  
+•	Resistor
 
