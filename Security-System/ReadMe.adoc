@@ -1,7 +1,3 @@
-:Author: chenchangliu
-:Email: {AuthorEmail}
-:Date: 16/06/2021
-:Revision: version#
 :License: Public Domain
 
 = Project: {Project}
@@ -37,9 +33,6 @@ Upload the code contained in this sketch on to your board
 
 === License
 This project is released under a {License} License.
-
-=== Contributing
-To contribute to this project please contact chenchangliu https://id.arduino.cc/chenchangliu
 
 === BOM
 Add the bill of the materials you need for this project.
