@@ -44,7 +44,7 @@ In order to accomplish the above articulated needs, the Security System requires
 
 •	Keypad & LCD1602: used for entering password in order to change between “opened” and “closed” states  
 •	Speaker: make alarm sound when moving objects passing through under “opened” state  
-•	Laser transmitter & laser receiver: detect moving objects passing through   
+•	Light sensor: detect moving objects passing through   
 
 
 4.HARDWARE REQUIREMENTS 	  
@@ -55,7 +55,6 @@ In order to accomplish the above articulated needs, the Security System requires
 •	Arduino Uno  
 • Speaker  
 •	Wires  
-•	Laser emitter  
-•	Laser receiver  
+•	Light sensor  
 •	Resistor
 
