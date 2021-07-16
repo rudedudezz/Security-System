@@ -44,7 +44,7 @@ In order to accomplish the above articulated needs, the Security System requires
 
 •	Keypad & LCD1602: used for entering password in order to change between “opened” and “closed” states  
 •	Speaker: make alarm sound when moving objects passing through under “opened” state  
-•	Light sensor: detect moving objects passing through   
+•	Light sensor & Laser emmitter: detect moving objects passing through   
 
 
 4.HARDWARE REQUIREMENTS 	  
@@ -56,5 +56,6 @@ In order to accomplish the above articulated needs, the Security System requires
 • Speaker  
 •	Wires  
 •	Light sensor  
+•	Laser emitter
 •	Resistor
 
